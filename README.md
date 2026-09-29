@@ -148,6 +148,6 @@ This project can help telecom companies:
 
 ## Author
 
-**Nitesh Kumar Yadav**
+**Deepak Kumar Yadav**
 B.Tech Computer Engineering
 Data Analyst | Python | SQL | Machine Learning | Streamlit
